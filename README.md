@@ -25,10 +25,7 @@ https://github.com/AMRITHJ/Secure-Coding-SC-roject/assets/120333671/c0bd86ef-f39
 CODE FOR webPwn3r-
 
 #!/usr/bin/env python
-# WebPwn3r is a Web Applications Security Scanner
-# By Ebrahim Hegazy - twitter.com/zigoo0
-# First demo conducted 12Apr-2014 @OWASP Chapter Egypt
-# https://www.owasp.org/index.php/Cairo
+
 import re
 import urllib
 from headers import *
@@ -82,7 +79,8 @@ urls_or_list()
 
 
 XSprear CODE-
-<img src="https://user-images.githubusercontent.com/13212227/62058818-ffcef780-b25c-11e9-9a35-36537efbcca7.png" width=100%>
+
+
 
 # XSpear
 XSpear is XSS Scanner on ruby gems
