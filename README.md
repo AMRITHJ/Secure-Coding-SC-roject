@@ -87,26 +87,6 @@ XSpear is XSS Scanner on ruby gems
 
 <img src="https://img.shields.io/github/languages/top/hahwul/xspear?color=red"> <img src="https://img.shields.io/gem/v/XSpear.svg"> <img src="https://img.shields.io/gem/dt/XSpear.svg"> <img src="https://img.shields.io/librariesio/sourcerank/rubygems/Xspear"> <img src="https://api.codacy.com/project/badge/Grade/0fa0f7cd75e34e7b9800f4fdf147605e"> <img src="https://img.shields.io/github/license/hahwul/XSpear.svg"> <a href="https://twitter.com/intent/follow?screen_name=hahwul"><img src="https://img.shields.io/twitter/follow/hahwul?style=flat-square"></a>
 
-## TOC
-- [XSpear](#xspear)
-  * [Key features](#key-features)
-  * [Installation](#installation)
-    + [Dependency gems](#dependency-gems)
-  * [Usage on cli](#usage-on-cli)
-    + [Result types](#result-types)
-    + [Verbose Mode](#verbose-mode)
-    + [Case by Case](#case-by-case)
-    + [Sample log](#sample-log)
-  * [Usage on ruby code](#usage-on-ruby-code)
-  * [Add Scanning Module](#add-scanning-module)
-  * [Update](#update)
-  * [Development](#development)
-  * [Contributing](#contributing)
-  * [Donate](#donate)
-  * [License](#license)
-  * [Code of Conduct](#code-of-conduct)
-  * [ScreenShot](#screenshot)
-  * [Video](#video)
 
 ## Key features
 - Pattern matching based XSS scanning
